@@ -1,6 +1,6 @@
 ### Hello, world! I'm Manoela Martedi ❤️
 
-<img align="right" alt="Mano-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/6213/6213464.png">
+<img align="right" alt="Mano-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/338224_yc7l5byE.png">
 
 
 - 🔭 I'm currently attending graduate school in Computer Science (Ciência da Computação - PUC)
