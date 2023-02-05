@@ -17,11 +17,12 @@
 </div>
 
   ##
- 
+
 <div> 
   <a href="https://www.youtube.com/@manomartedi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/m_martedi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/manoela-martedi-43379a264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://codepen.io/manozita" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
  <a href = "mailto:manoelamartedi@hotmail.com"><img src="https://img.shields.io/badge/-send me an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <img align="right" alt="Brazil-pic" height="50" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png">
 </div>
