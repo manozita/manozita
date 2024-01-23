@@ -4,7 +4,7 @@
 
 
 - 🔭 I'm currently attending graduate school in Computer Science (Ciência da Computação - PUC)
-- 🌱 I’m currently working on completing Harvard's CS50 course
+- 🌱 I’m also working on completing Harvard's CS50 course
 - 📫 Contact me here: manoelamartedi@hotmail.com
 - ❤️ Instagram: @m_martedi
 - ⚡ Fun fact: I first got into programming by an app called Episode, where you can code your own stories. I was only 10 by that time, but I published a story that currently has more than 20k reads!
