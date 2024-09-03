@@ -1,31 +1,25 @@
-### Hello, world! I'm Manoela Martedi ❤️
+<h1 align="center"> Manoela Martedi </h1>
 
-<img align="right" alt="Mano-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/338224_yc7l5byE.png">
+<p align="center">
+	<a href="https://www.linkedin.com/in/manoela-martedi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></img></a>
+	<a href="https://api.whatsapp.com/send?phone=+5511994216956"><img src="https://img.shields.io/badge/-whatsapp-25d366&labelColor=white?style=flat-square&logo=Whatsapp&logoColor=white"></img></a>
+  <a href="https://instagram.com/m.martedi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
+	<a href="mailto:manoelamartedi@hotmail.com"><img src="https://img.shields.io/badge/-email me-rgb(255, 117, 182)?style=flat-square&logo=gmail&logoColor=white"></img></a>
+</p>
 
+<h2>Hello, world! Meu nome é Manoela ✨</h2>
 
-- 🔭 I'm currently attending graduate school in Computer Science (Ciência da Computação - PUC)
-- 🌱 I’m also working on completing Harvard's CS50 course
-- 📫 Contact me here: manoelamartedi@hotmail.com
-- ❤️ Instagram: @m_martedi
-- ⚡ Fun fact: I first got into programming by an app called Episode, where you can code your own stories. I was only 10 by that time, but I published a story that currently has more than 20k reads!
+<p>
+  Sou uma estudante de Ciência da Computação (PUC-SP) apaixonada pelo que a tecnologia tem a nos oferecer!
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mano-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<!--![Manoela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozita&hide=contribs,prs)-->
+<p align="center" style="padding: 16px"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manozita&layout=compact&theme=bear" alt="linguagens principais">
+</p>
+
+<div align="center" style="display: inline_block"><br>
+  <img aligh="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+  <img aligh="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img aligh="center" alt="Python" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 </div>
-
-  ##
-
-<div> 
-  <a href="https://www.youtube.com/@manomartedi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/m.martedi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/manoela-martedi-43379a264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://codepen.io/manozita" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
- <a href = "mailto:manoelamartedi@hotmail.com"><img src="https://img.shields.io/badge/-send me an email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <img align="right" alt="Brazil-pic" height="50" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png">
-</div>
-
-###### (profile is a work in progress😅)
- 
