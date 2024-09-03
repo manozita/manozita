@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/manoela-martedi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></img></a>
-	<a href="https://api.whatsapp.com/send?phone=+5511994216956"><img src="https://img.shields.io/badge/-whatsapp-25d366&labelColor=white?style=flat-square&logo=Whatsapp&logoColor=white"></img></a>
+	<a href="https://wa.me/5511994216956"><img src="https://img.shields.io/badge/-whatsapp-25d366&labelColor=white?style=flat-square&logo=Whatsapp&logoColor=white"></img></a>
   <a href="https://instagram.com/m.martedi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="mailto:manoelamartedi@hotmail.com"><img src="https://img.shields.io/badge/-email me-rgb(255, 117, 182)?style=flat-square&logo=gmail&logoColor=white"></img></a>
 </p>
