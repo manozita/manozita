@@ -13,6 +13,8 @@
   Sou uma estudante de Ciência da Computação (PUC-SP) apaixonada pelo que a tecnologia tem a nos oferecer!
 </p>
 
+<h2>Stats</h2>
+
 <!--![Manoela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manozita&hide=contribs,prs)-->
 <p align="center" style="padding: 16px"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manozita&layout=compact&theme=bear" alt="linguagens principais">
