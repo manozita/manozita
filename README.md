@@ -19,9 +19,3 @@
 <p align="center" style="padding: 16px"> 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manozita&layout=compact&theme=bear" alt="linguagens principais">
 </p>
-
-<div align="center" style="display: inline_block"><br>
-  <img aligh="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
-  <img aligh="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-  <img aligh="center" alt="Python" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-</div>
