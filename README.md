@@ -10,7 +10,7 @@
 <h2>Hello, world! Meu nome é Manoela ✨</h2>
 
 <p>
-  Sou uma estudante de Ciência da Computação (PUC-SP) apaixonada pelo que a tecnologia tem a nos oferecer!
+  Estudante de Ciência da Computação, Quality Assurance (SABESP)
 </p>
 
 <h2>Stats</h2>
